@@ -1,1 +1,2 @@
-
+For this project, we used a dataset to find which factors influence customers' behaviors and how likely these consumers were to accept different offers, such as coupons or other offers.
+We preprocessed the data by cleaning it, then used EDA, and last but not least PCA to find these patterns.
